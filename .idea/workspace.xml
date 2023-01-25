@@ -18,6 +18,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,6 +48,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DataDisk\Practice\Course_3\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="smoothscroll.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/smoothscroll.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +69,7 @@
       <workItem from="1674486204851" duration="8609000" />
       <workItem from="1674551464777" duration="2049000" />
       <workItem from="1674553781248" duration="16140000" />
+      <workItem from="1674637617472" duration="5511000" />
     </task>
     <servers />
   </component>
