@@ -25,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fatmirs.github.io" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/css/jumbotron.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -69,7 +72,7 @@
       <workItem from="1674486204851" duration="8609000" />
       <workItem from="1674551464777" duration="2049000" />
       <workItem from="1674553781248" duration="16140000" />
-      <workItem from="1674637617472" duration="5511000" />
+      <workItem from="1674637617472" duration="16681000" />
     </task>
     <servers />
   </component>

@@ -83,15 +83,37 @@ footer{
 #back-to-top a{
     color: #333;
 }
+.modal-dialog{
+    top:250px;
+}
 
-
-
+.modal-content{
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.modal-content button.close{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 32px;
+    background: white;
+    border-radius: 13px;
+    opacity: 1;
+    width: 30px;
+}
+#exampleInputEmail1{
+    font-size: 25px;
+  height: 70px;
+}
 
 /*@Media Queries*/
 @media (max-width: 1199px) {
     .jumbotron h1 {
         font-size: 56px;
         margin-bottom: 30px;
+    }
+    #jumbotron > div.container > form > div > p > a{
+        display: flex;
     }
 }
 @media (max-width: 991px) {
@@ -104,6 +126,14 @@ footer{
     #get_involve .col-md-4 {
         padding-top: 20px;
         padding-bottom: 20px;
+    }
+    #jumbotron > div.container > form > div > p > a{
+       display: inline-block;
+        margin-top: 15px;
+    }
+    iframe{
+        width: 600px;
+        height: 250px;
     }
 }
 @media (max-width: 767px) {
@@ -122,5 +152,17 @@ footer{
     }
     footer img{
         width: 80%;
+    }
+    #jumbotron > div.container > form > div > p > a{
+        margin-top: 15px;
+
+    }
+    #exampleInputEmail1{
+        font-size: 15px;
+        height: 50px;
+    }
+    iframe{
+      width: 450px;
+        height: 250px;
     }
 }
