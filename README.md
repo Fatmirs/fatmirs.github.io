@@ -1,6 +1,6 @@
 # fatmirs.github.io
-My One Million Lines Site   
-Copyright &copy; 2023 Fatmirs Shurdha
+### My One Million Lines Site   
+Copyright &copy; 2023 **`Fatmirs Shurdha`**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
